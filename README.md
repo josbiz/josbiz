@@ -1,4 +1,4 @@
-# HELLO, THANK YOU FOR THE VISITING
+# HELLO, THANK YOU FOR VISITING
 - 👋 I’m @BON
 - 🌮 I'm from MEXICO 
 - 👀 I’m interested in developing Apps and create WEB sites 
