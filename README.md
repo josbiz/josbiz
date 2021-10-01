@@ -1,5 +1,5 @@
 # HELLO, THANK YOU FOR VISITING
-- 👋 I’m @BON
+- 👋 I’m BON
 - 🌮 I'm from MEXICO 
 - 👀 I’m interested in developing Apps and create WEB sites 
 - 🌱 I’m currently learning C and JavaScript
