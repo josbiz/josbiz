@@ -1,4 +1,5 @@
 # HELLO, THANK YOU FOR VISITING
+### José Bolivar T. I.
 - 👋 I’m BON
 - 🌮 I'm from MEXICO 
 - 👀 I’m interested in developing Apps and create WEB sites 
