@@ -2,6 +2,7 @@
 ### José Bolivar T. I.
 - 👋 I’m BON
 - 🌮 I'm from MEXICO 
+- ⛱️ Born in Acapulco, Gro
 - 👀 I’m interested in developing Apps and create WEB sites 
 - 🌱 I’m currently learning C, JavaScript and Python
 - ✒️ I like to make drawings and other type of art
