@@ -1,10 +1,10 @@
-# HELLO, THANK YOU FOR VISITING
-### José Bolivar T. I.
+# HELLO, AND WELCOME TO MY PROJECTS
+### José Bolivar T. Ibáñez
 - 👋 I’m BON
 - 🌮 I'm from MEXICO 
 - ⛱️ Born in Acapulco, Gro
 - 👀 I’m interested in developing Apps and create WEB sites 
-- 🌱 I’m currently learning C, JavaScript and Python
+- 🌱 I’m currently learning JavaScript, Typescript and Python
 - ✒️ I like to make drawings and other type of art
 
 <!---
