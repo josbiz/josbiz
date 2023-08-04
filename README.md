@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile!
+<h1 text-align="center">Welcome to my GitHub Profile!</h1>
 
 ![Banner](./images/palmas.jpg)
 
