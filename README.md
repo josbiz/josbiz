@@ -53,10 +53,6 @@ Here are some of my notable projects:
 
 Feel free to explore more of my projects on [GitHub](https://github.com/your-username).
 
-## Contributions & Open Source 💡
-
-I'm a strong believer in the open-source community and actively contribute to various projects. I've also created a few open-source projects that might be of interest. If you want to collaborate or have any questions, feel free to reach out.
-
 ## Let's Connect 🤝
 
 I'm always open to meeting fellow developers and tech enthusiasts. Let's connect on social media:
