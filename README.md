@@ -10,10 +10,6 @@ I'm a ***Frontend developer*** with a strong background in React applications an
 
 I thrive on challenges and enjoy learning something new every day. I believe in the power of collaboration and knowledge-sharing to drive positive change in the tech world.
 
-## What I'm Working On 🔧
-
-Currently, I'm working on [Briefly describe your ongoing projects]. I'm super excited about [Share what excites you the most about these projects].
-
 ## My Tech Stack 💻
 
 - **Languages:** 
