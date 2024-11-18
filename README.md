@@ -3,6 +3,7 @@
 ![Banner](./images/palmas.jpg)
 
 Hi there! 👋 I'm *José Bolivar*, a passionate Frontend developer from Acapulco, Mexico. I love exploring new technologies, building innovative projects, and contributing to open-source communities. Welcome to my GitHub profile!
+Feel free to explore more of my projects on [Josbiz](https://github.com/josbiz).
 
 ## About Me 🌟
 
@@ -35,19 +36,6 @@ I thrive on challenges and enjoy learning something new every day. I believe in 
 - **Databases:** 
     - MySQL
     - SQLite
-    
-## My Projects 🚀
-
-Here are some of my notable projects:
-
-`Im still working on this part`
-1. [Project Name](https://github.com/your-username/project-name) - Brief description of the project and what makes it unique.
-
-2. [Project Name](https://github.com/your-username/project-name) - Brief description of the project and what makes it unique.
-
-3. [Project Name](https://github.com/your-username/project-name) - Brief description of the project and what makes it unique.
-
-Feel free to explore more of my projects on [GitHub](https://github.com/your-username).
 
 ## Let's Connect 🤝
 
