@@ -18,15 +18,18 @@ I thrive on challenges and enjoy learning something new every day. I believe in 
 
 **Languages:** 
 
+<p>
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
+</p>
 
 **Frameworks/Libraries:**
 
+<p>
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff">
@@ -34,19 +37,24 @@ I thrive on challenges and enjoy learning something new every day. I believe in 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Chakra UI-29bfb3?style=flat&logo=chakraui&logoColor=white">
 <img src="https://img.shields.io/badge/-Tailwind CSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white">
+</p>
 
 **Tools & Technologies:** 
 
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
+</p>
 
 **Databases:** 
 
+<p>
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
+</p>
 
 ## Let's Connect 🤝
 
