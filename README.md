@@ -28,10 +28,12 @@ I thrive on challenges and enjoy learning something new every day. I believe in 
 **Frameworks/Libraries:**
 
 <p>
+<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff">
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff">
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Chakra UI-29bfb3?style=flat&logo=chakraui&logoColor=white">
 <img src="https://img.shields.io/badge/-Tailwind CSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white">
@@ -42,6 +44,8 @@ I thrive on challenges and enjoy learning something new every day. I believe in 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7">
 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
