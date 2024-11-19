@@ -2,9 +2,7 @@
 
 ![Banner](./images/palmas.jpg)
 
-Hi there! 👋 I'm *José Bolivar*, a passionate Frontend developer from Acapulco, Mexico. I love exploring new technologies, building innovative projects, and contributing to open-source communities. Welcome to my GitHub profile!
-
-Feel free to explore more of my projects on [Josbiz](https://github.com/josbiz).
+Hi there! 👋 I'm *José Bolivar*, a passionate Frontend developer from Acapulco, Mexico. I love exploring new technologies, building innovative projects, and contributing to open-source communities. Feel free to explore more of my projects and repos. Welcome to my GitHub!
 
 ## About Me 🌟
 
