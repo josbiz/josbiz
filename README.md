@@ -1,6 +1,4 @@
-<h1 align="center">J O S B I Z</h1>
-
-![Banner](./images/palmas.jpg)
+![Banner](./images/palmas.png)
 
 Hi there! 👋 I'm *José Bolivar*, a passionate Frontend developer from Acapulco, Mexico. I love exploring new technologies, building innovative projects, and contributing to open-source communities. Feel free to explore more of my projects and repos. Welcome to my GitHub!
 
